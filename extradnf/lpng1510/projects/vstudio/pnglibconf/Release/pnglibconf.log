@@ -1,0 +1,19 @@
+﻿Build started 2012/4/7 1:16:39.
+     1>Project "E:\devandroid\dnfextrator\extradnf\lpng1510\projects\vstudio\pnglibconf\pnglibconf.vcxproj" on node 3 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\devandroid\dnfextrator\extradnf\lpng1510\projects\vstudio\Release\".
+       InitializeBuildStatus:
+         Creating "Release\pnglibconf.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Release\pnglibconf.unsuccessfulbuild".
+         Touching "Release\pnglibconf.lastbuildstate".
+       CustomBuildStep:
+         Description: Generating pnglibconf.h
+         copy ..\..\..\scripts\pnglibconf.h.prebuilt ..\..\..\pnglibconf.h
+         :VCEnd
+         已复制         1 个文件。
+     1>Done Building Project "E:\devandroid\dnfextrator\extradnf\lpng1510\projects\vstudio\pnglibconf\pnglibconf.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57
